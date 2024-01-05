@@ -1,5 +1,6 @@
 Hi 👋 My name is Kirill
 =======================
+<a href="https://wakatime.com/@3a4db7b8-59d7-45eb-b77d-e52f803ef303"><img src="https://wakatime.com/badge/user/3a4db7b8-59d7-45eb-b77d-e52f803ef303.svg" alt="Total time coded since Jul 15 2023" /></a>
 <div>
   <a href="https://github.com/ripls56">
   <img height="180em" src="https://github-readme-stats-ripls56s-projects.vercel.app/api?username=ripls56&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
