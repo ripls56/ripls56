@@ -13,7 +13,7 @@ Hi 👋 My name is Kirill
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 27 February 2024
+From: 14 July 2023 - To: 28 February 2024
 
 Total Time: 253 hrs 1 min
 
