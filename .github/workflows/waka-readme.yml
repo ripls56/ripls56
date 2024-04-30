@@ -18,3 +18,4 @@ jobs:
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_MASKED_TIME: true
+          CODE_LANG: rust
