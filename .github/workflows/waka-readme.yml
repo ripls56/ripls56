@@ -17,4 +17,4 @@ jobs:
           LANG_COUNT: 5
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
