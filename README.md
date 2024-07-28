@@ -31,21 +31,21 @@ Kotlin              15 hrs 37 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="left">
   <a href="https://github.com/ripls56">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" height="30"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" height="35"/>
   </a>
 </p>  
 <p align="left">
   <a href="https://github.com/ripls56">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgresql,redis,amazons3&perline=20&theme=dark" height="30"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgresql,redis,amazons3&perline=20&theme=dark" height="35"/>
   </a>
 </p>  
 <p align="left">
   <a href="https://github.com/ripls56">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=docker,git,prometheus,sentry&perline=20&theme=dark" height="30"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=docker,git,prometheus,sentry&perline=20&theme=dark" height="35"/>
   </a>
 </p>  
 <p align="left">
   <a href="https://github.com/ripls56">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions&perline=20&theme=dark" height="30"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions&perline=20&theme=dark" height="35"/>
   </a>
 </p>  
