@@ -28,7 +28,24 @@ Kotlin              15 hrs 37 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
   ###
   #
-  
+
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+  <a href="https://github.com/ripls56">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" />
+  </a>
+</p>  
+<p align="left">
+  <a href="https://github.com/ripls56">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgres,redis&perline=20&theme=dark" />
+  </a>
+</p>  
+<p align="left">
+  <a href="https://github.com/ripls56">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=docker,git,prometheus,sentry&perline=20&theme=dark" />
+  </a>
+</p>  
+<p align="left">
+  <a href="https://github.com/ripls56">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions&perline=20&theme=dark" />
+  </a>
+</p>  
