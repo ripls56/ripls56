@@ -31,12 +31,12 @@ Kotlin              15 hrs 37 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="left">
   <a href="https://github.com/ripls56">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" height="50"/>
   </a>
 </p>  
 <p align="left">
   <a href="https://github.com/ripls56">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgres,redis&perline=20&theme=dark" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgresql,redis,amazons3&perline=20&theme=dark" />
   </a>
 </p>  
 <p align="left">
