@@ -1,6 +1,6 @@
 Hi 👋 My name is Kirill
 =======================
-<div width="2000px" style="display: flex;
+<div style="display: flex;
     flex-direction: row;
     align-items: flex-start;">
     <div style=" margin-right: 20px;">
