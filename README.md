@@ -1,10 +1,29 @@
 Hi 👋 My name is Kirill
 =======================
 <div>
-  <a href="https://github.com/ripls56">
-  <img height="180em" src="https://github-readme-stats-ripls56s-projects.vercel.app/api?username=ripls56&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite"/>
-  <img height="180em" src="https://github-readme-stats-ripls56s-projects.vercel.app/api/top-langs/?username=ripls56&layout=compact&count_private=true&theme=graywhite&exclude_repo=colege&hide=python,html,jupyter%20notebook,Makefile"/>
-  </a>
+   <a href="https://github.com/ripls56">
+      <img height="180em" src="https://github-readme-stats-ripls56s-projects.vercel.app/api?username=ripls56&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite"/>
+      <p align="left">
+   <a href="https://github.com/ripls56">
+   <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" height="35"/>
+   </a>
+   </p>  
+   <p align="left">
+      <a href="https://github.com/ripls56">
+      <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgresql,redis,amazons3&perline=20&theme=dark" height="35"/>
+      </a>
+   </p>
+   <p align="left">
+      <a href="https://github.com/ripls56">
+      <img src="https://simpleskill.icons.workers.dev/svg?i=docker,git,prometheus,sentry&perline=20&theme=dark" height="35"/>
+      </a>
+   </p>
+   <p align="left">
+      <a href="https://github.com/ripls56">
+      <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions&perline=20&theme=dark" height="35"/>
+      </a>
+   </p>
+   </a>
 </div>
   
   ###
@@ -29,23 +48,4 @@ Kotlin              15 hrs 37 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   ###
   #
 
-<p align="left">
-  <a href="https://github.com/ripls56">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" height="35"/>
-  </a>
-</p>  
-<p align="left">
-  <a href="https://github.com/ripls56">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgresql,redis,amazons3&perline=20&theme=dark" height="35"/>
-  </a>
-</p>  
-<p align="left">
-  <a href="https://github.com/ripls56">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=docker,git,prometheus,sentry&perline=20&theme=dark" height="35"/>
-  </a>
-</p>  
-<p align="left">
-  <a href="https://github.com/ripls56">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions&perline=20&theme=dark" height="35"/>
-  </a>
-</p>  
+
