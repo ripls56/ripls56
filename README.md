@@ -1,24 +1,17 @@
 Hi 👋 My name is Kirill
 =======================
-<div style="display: flex; align-items: flex-start;">
-  <a href="https://github.com/ripls56">
-    <img height="180em" src="https://github-readme-stats-ripls56s-projects.vercel.app/api?username=ripls56&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite" style="margin-right: 20px;"/>
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/ripls56" style="margin-right: 20px;">
+    <img height="180em" src="https://github-readme-stats-ripls56s-projects.vercel.app/api?username=ripls56&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite"/>
   </a>
-  <div>
-    <p align="left">
-      <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" height="35"/>
-    </p>
-    <p align="left">
-      <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgresql,redis,amazons3&perline=20&theme=dark" height="35"/>
-    </p>
-    <p align="left">
-      <img src="https://simpleskill.icons.workers.dev/svg?i=docker,git,prometheus,sentry&perline=20&theme=dark" height="35"/>
-    </p>
-    <p align="left">
-      <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions&perline=20&theme=dark" height="35"/>
-    </p>
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" height="35"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgresql,redis,amazons3&perline=20&theme=dark" height="35"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=docker,git,prometheus,sentry&perline=20&theme=dark" height="35"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions&perline=20&theme=dark" height="35"/>
   </div>
 </div>
+
 
   
   ###
