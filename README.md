@@ -3,7 +3,7 @@ Hi 👋 My name is Kirill
 <div style="display: flex;">
    <a href="https://github.com/ripls56">
       <img height="180em" src="https://github-readme-stats-ripls56s-projects.vercel.app/api?username=ripls56&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite"/>
-      <div height="180em">
+      <div >
          <p align="left">
             <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" height="35"/>
          </p>
