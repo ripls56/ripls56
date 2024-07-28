@@ -1,6 +1,6 @@
 Hi 👋 My name is Kirill
 =======================
-<div style="display: flex; align-items: left;">
+<div style="display: flex; align-items: center;">
    <a href="https://github.com/ripls56">
       <img height="180em" src="https://github-readme-stats-ripls56s-projects.vercel.app/api?username=ripls56&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite"/>
       <div height="180em">
