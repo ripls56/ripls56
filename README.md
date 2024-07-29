@@ -1,32 +1,29 @@
 Hi 👋 My name is Kirill
-=======================
-<div style="display: flex;
-    flex-direction: row;
-    align-items: flex-start;">
-    <div style=" margin-right: 20px;">
-        <a href="https://github.com/ripls56">
-        <img height="180em" src="https://github-readme-stats-ripls56s-projects.vercel.app/api?username=ripls56&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite" alt="GitHub Stats"/>
-        </a>
-    </div>
-    <div style="display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 10px;
-        align-child: left;
-        ">
-        <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" height="35em" alt="SimpleSkill Flutter Dart Postman"/>
-        <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgresql,redis,amazons3&perline=20&theme=dark" height="35em" alt="SimpleSkill Go Rust PostgreSQL Redis AmazonS3"/>
-        <img src="https://simpleskill.icons.workers.dev/svg?i=docker,git,prometheus,sentry&perline=20&theme=dark" height="35em" alt="SimpleSkill Docker Git Prometheus Sentry"/>
-        <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions&perline=20&theme=dark" height="35em" alt="SimpleSkill GitHub GitHub Actions"/>
-    </div>
-</div>
+===
+<table>
+    <tr>
+    <th style="text-align: center;">GitHub Stats</th>
+    <th style="text-align: center;">Skills</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ripls56">
+        <img height="180em" src="https://github-readme-stats-ripls56s-projects.vercel.app/api?username=ripls56&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite"/>
+      </a>
+    </td>
+    <td>
+        <img src="https://simpleskill.icons.workers.dev/svg?i=flutter,dart,postman&perline=20&theme=dark" height="35em"/>
+        <br/>
+        <img src="https://simpleskill.icons.workers.dev/svg?i=go,rust,postgresql,redis,amazons3&perline=20&theme=dark" height="35em"/>
+        <br/>
+        <img src="https://simpleskill.icons.workers.dev/svg?i=docker,git,prometheus,sentry&perline=20&theme=dark" height="35em"/>
+        <br/>
+        <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions&perline=20&theme=dark" height="35em"/>
+    </td>
+  </tr>
+</table>
 
-
-
-  
-  ###
-  #
-  
+---
 <!--START_SECTION:waka-->
 
 ```
@@ -42,8 +39,3 @@ Kotlin              15 hrs 37 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-  ###
-  #
-
-
