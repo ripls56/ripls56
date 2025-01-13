@@ -27,7 +27,7 @@ Hi 👋 My name is Kirill
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 July 2023 - To: 11 January 2025
+From: 14 July 2023 - To: 12 January 2025
 
 Total Time: 691 hrs 21 mins
 
