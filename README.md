@@ -27,15 +27,15 @@ Hi 👋 My name is Kirill
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 July 2023 - To: 28 May 2026
+From: 14 July 2023 - To: 30 May 2026
 
-Total Time: 1,533 hrs 38 mins
+Total Time: 1,540 hrs 40 mins
 
-C#                                 504 hrs 9 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.87 %
-Other                              271 hrs 27 mins       ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.70 %
-Dart                               221 hrs 23 mins       ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.44 %
-Go                                 156 hrs 49 mins       ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.23 %
-JSON                               106 hrs 15 mins       ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.93 %
+C#                                 509 hrs 29 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.07 %
+Other                              271 hrs 28 mins       ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.62 %
+Dart                               221 hrs 23 mins       ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.37 %
+Go                                 156 hrs 49 mins       ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.18 %
+JSON                               107 hrs 2 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.95 %
 ```
 
 <!--END_SECTION:waka-->
